@@ -1,0 +1,9 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://sipanta-5pwe.vercel.app/api/:path*"
+    }
+  ]
+}
